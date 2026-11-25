@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:04:54.533Z",
+  "slug": "podiatrymed",
+  "name": "PodiatryMed",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Physiotherapists",
+    "niche": "physiotherapists",
+    "group": "Health & medical"
+  },
+  "contact": {
+    "phone": "0508508508",
+    "email": "info@podiatrymed.co.nz",
+    "address": "61 Cambridge Terrace, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/105100536246189",
+    "x": "https://twitter.com/PodiatryMed"
+  },
+  "about": {
+    "overview": "The team, led by Bruce Baxter, works with modern practices backed by the latest research and has a combined experience of over 50 years.",
+    "services": [
+      "Some of our Services",
+      "Podiatry & Physiotherapy",
+      "Before you Visit",
+      "Children’s Feet",
+      "Are you the left toe?",
+      "Dr.’s Remedy Enriched Nail Care"
+    ]
+  },
+  "before": {
+    "url": "http://www.podiatrymed.co.nz/",
+    "domain": "podiatrymed.co.nz",
+    "finalUrl": "http://podiatrymed.co.nz/",
+    "title": "PodiatryMed – PodiatryMed Physiotherapy Sport & Health",
+    "pages": 41,
+    "score": 46,
+    "assessedAt": "2026-11-19T11:08:52.589Z",
+    "issues": [
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://podiatrymed.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "stale-copyright",
+        "title": "Looks out of date",
+        "evidence": "Footer copyright reads 2018, 8 years ago."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/podiatrymed/",
+    "repoUrl": "https://github.com/tova-studio/podiatrymed",
+    "generator": "claude",
+    "accent": "#f78da7",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:04:54.533Z"
+  }
+}
